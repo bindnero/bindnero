@@ -1,86 +1,81 @@
 <h1 align="center">Hi 👋, I'm Nabin Mathagai</h1>
 <h3 align="center">A passionate Full stack developer from Nepal 🇳🇵</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bindnero&label=Profile%20views&color=0e75b6&style=flat" alt="bindnero's profile views" />
+  <img src="https://img.shields.io/github/followers/bindnero?style=flat&color=0e75b6&label=Followers" alt="bindnero's followers" />
+</p>
+
+---
+
+## 👋 About Me
+
+I'm a developer from Nepal who enjoys building products end to end — trading tools, browser
+utilities, and the messy web plumbing in between. I care about interfaces that feel fast and
+code that other people can still read six months later.
+
 - 🔭 I’m currently working on [Nani Trader](https://nani.info.np) — an event-driven trading app
 - 👯 I’m looking to collaborate on [KPM Tools](https://kpm.info.np) — 589 free utilities that run entirely in your browser
 - 🤝 I’m looking for help with [Worklab](https://worklab.com.np) — my startup
 - 🌱 I’m currently learning **AI/ML, trading, system design, and automation**
 - 💬 Ask me about **React, Vue and GSAP**
-- 📫 How to reach me: [`info@nabinmathagai.com.np`](mailto:info@nabinmathagai.com.np) · [`+977 9822527084`](https://wa.me/9779822527084)
-- 👨‍💻 All of my projects are available at [`nabinmathagai.com.np`](https://nabinmathagai.com.np)
 - ⚡ Fun fact: I think I am funny
-
-## 🧰 Skills
-
-### 💻 Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-</p>
-
-### 📱 Mobile
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-</p>
-
-### 🗄️ Database
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-### 📊 Data
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" /> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge" alt="PowerPoint" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-</p>
-
-### 🧰 Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/TestSprite-5B21B6?style=for-the-badge" alt="TestSprite" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-### 🌐 Frameworks & Sites
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Unity%20(learning)-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity (learning)" /> <img src="https://img.shields.io/badge/Roblox-E2231A?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
-</p>
-
-### ⚡ Automation & Other
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" /> <img src="https://img.shields.io/badge/N8n-EA4B71?style=for-the-badge" alt="N8n" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,php,css,html&theme=dark" alt="js, ts, php, css, html" /></p>
+
+### 🎨 Frontend
+
+<p align="center"><img src="https://skillicons.dev/icons?i=react,bootstrap,webpack,tailwind&theme=dark" alt="react, bootstrap, webpack, tailwind" /></p>
+
+### ⚙️ Backend
+
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="nodejs, express" /></p>
+
+### 📱 Mobile
+
+<p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark" alt="flutter, dart, kotlin" /> <p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+</p></p>
+
+### 🗄️ Database
+
+<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" alt="mongodb, mysql, postgresql, redis" /></p>
+
+### 📊 Data
+
+
+
+### ☁️ Cloud & DevOps
+
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,firebase&theme=dark" alt="aws, firebase" /></p>
+
+### 🧰 Tools
+
+<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,postman,figma&theme=dark" alt="dotnet, postman, figma" /> <p align="center">
+  <img src="https://img.shields.io/badge/TestSprite-5B21B6?style=for-the-badge" alt="TestSprite" />
+</p></p>
+
+### 🌐 Frameworks & Sites
+
+<p align="center"><img src="https://skillicons.dev/icons?i=nextjs,unity&theme=dark" alt="nextjs, unity" /> <p align="center">
+  <img src="https://img.shields.io/badge/Roblox-E2231A?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
+</p></p>
+
+### ⚡ Automation & Other
+
+<p align="center"><img src="https://skillicons.dev/icons?i=linux,git&theme=dark" alt="linux, git" /> <p align="center">
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" /> <img src="https://img.shields.io/badge/N8n-EA4B71?style=for-the-badge" alt="N8n" />
+</p></p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bindnero&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" alt="bindnero's GitHub stats" />
@@ -100,7 +95,7 @@
 ### 💬 Connect with me
 
 <p align="center">
-  <a href="https://github.com/bindnero" target="_blank"><img align="center" src="https://github.com/bindnero.svg?height=20" alt="bindnero" /></a>
+  <a href="https://github.com/bindnero" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/nabin-mathagai-37055140a" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/nabingnp" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://discord.gg/nabin5np" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
